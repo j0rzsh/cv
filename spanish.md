@@ -8,7 +8,14 @@ Ingeniero Cloud. Filosofía DevOps. Especialización en Amazon Web Services. Exp
 
 ## Experiencia laboral
 
-###  (01/2021 – Actualidad) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
+### (09/2023 – Actualidad) – NC43Tech – Senior Cloud DevOps Engineer/Cloud Architect
+
+- Diseño, implementación, gestión y operación de __arquitecturas en AWS__.
+- Gestión de __CI/CD__ (Jenkins).
+- Implementación y gestión de CDNs con __AWS Cloudfront__.
+- Establecimiento de buenas prácticas en __IaC (Terraform)__.
+
+###  (01/2021 – 09/2023) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
 
 - Creación del departamento de __Infraestructura/DevOps__.
 - Introducción de __IaC (Terraform)__ en la compañía y establecimiento de buenas prácticas en el departamento.
