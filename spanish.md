@@ -11,9 +11,20 @@ Ingeniero Cloud. Filosofía DevOps. Especialización en Amazon Web Services. Exp
 ### (09/2023 – Actualidad) – NC43Tech – Senior Cloud DevOps Engineer/Cloud Architect
 
 - Diseño, implementación, gestión y operación de __arquitecturas en AWS__.
-- Gestión de __CI/CD__ (Jenkins).
-- Implementación y gestión de CDNs con __AWS Cloudfront__.
+- Gestión de __CI/CD__ para los departamentos de backend y frontend (Jenkins).
 - Establecimiento de buenas prácticas en __IaC (Terraform)__.
+- Gestión de infraestructuras para microservicios basada en __AWS ECS__.
+- Establecimiento de procesos y herramientas de __monitorización y alertado__ (AWS Cloudwatch + Slack).
+- Gestión de bases de datos (__MongoDB__).
+- Implementación y gestión de CDNs con __AWS Cloudfront__.
+- Creación de estrategias de __Backup__ para todos los recursos de la plataforma.
+- Implantación de procesos y buenas prácticas de __seguridad__ a través de toda la plataforma.
+- Establecimiento y gestión de reglas de seguridad en __AWS WAF__.
+- Implementación y gestión de __OpenVPN__.
+- Gestión de permisos en AWS a SSO con __AWS Organizations__.
+- Instalación y configuración de __Hashicorp Vault__.
+- Gestión de la infraestructura en __Google Cloud Platform__ basado en __Firebase__, __BigQuery__, __Google Ad Manager__ y __Google Vision__.
+- Administración de __Google Workspace__.
 
 ###  (01/2021 – 09/2023) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
 
@@ -32,8 +43,9 @@ Ingeniero Cloud. Filosofía DevOps. Especialización en Amazon Web Services. Exp
 - Creación e implantación de un __sistema completo de CI/CD__ basado en tags y feature branches, liderando dicha implantación desde el departamento de Infraestructura y DevOps, llevado a cabo en conjunción con el resto de equipos (Backend, Frontend, QA).
 - Optimización de los tiempos de despliegue a través de la paralelización de las automatizaciones del CI/CD.
 - Implantación de procesos y buenas prácticas de __seguridad__ a través de toda la plataforma.
+- Establecimiento y gestión de reglas de seguridad en __AWS WAF__.
 - Gestión de infraestructura, documentación y procesos para __PCI DSS__. Auditoría de PCI DSS.
-- Creación de infraestructura para implantación de herramientas de terceros en la plataforma (AWS DMS para Looker, AWS EKS para Flowable).
+- Creación de infraestructura para implantación de herramientas de terceros en la plataforma (__AWS DMS__ para Looker, __AWS EKS__ para Flowable).
 - Establecimiento de procesos de automatización para operaciones. Creación de documentación y posterior traspaso a otros departamentos.
 
 ### (09/2019 – 01/2021) – Bluetab Solutions – Cloud DevOps Engineer

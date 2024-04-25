@@ -11,9 +11,20 @@ Cloud Engineer. DevOps philosophy. Specialization in Amazon Web Services. Experi
 ### (09/2023 – Present) – NC43Tech – Senior Cloud DevOps Engineer/Cloud Architect
 
 - Design, implementation, management, and operation of __AWS architectures__.
-- Management of __CI/CD__ (Jenkins).
-- Implementation and management of CDNs with __AWS Cloudfront__.
-- Establishment of good practices with __IaC (Terraform)__.
+- __CI/CD__ management for backend and frontend departments (__Jenkins__).
+- Establishment of best practices in __IaC (Terraform)__.
+- Infrastructure management for microservices based on __AWS ECS__.
+- Establishment of __monitoring__ and __alerting__ processes and tools (__AWS CloudWatch__ + __Slack__).
+- Databases management (__MongoDB__).
+- Implementation and management of CDNs using __AWS CloudFront__.
+- Creation of __Backup__ strategies for all platform resources.
+- Implementation of security processes and best practices across the platform.
+- Establishment and management of security rules in __AWS WAF__.
+- Implementation and management of __OpenVPN__.
+- AWS permission management via SSO with __AWS Organizations__.
+- Installation and configuration of __HashiCorp Vault__.
+- Infrastructure management in __Google Cloud Platform__ based on __Firebase__, __BigQuery__, __Google Ad Manager__ and __Google Vision__.
+- Administration of __Google Workspace__.
 
 ### (01/2021 – 09/2023) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
 
@@ -31,6 +42,7 @@ Cloud Engineer. DevOps philosophy. Specialization in Amazon Web Services. Experi
 - Creation of solutions related to the management and configuration of __Java microservices__ (configuration parameters, secrets management, version management, etc.).
 - Creation and implementation of a complete __CI/CD system__ based on tags and feature branches, leading this implementation from the Infrastructure and DevOps department, carried out in conjunction with the rest of the teams (Backend, Frontend, QA).
 - Optimization of deployment times through the parallelization of CI/CD automations.
+- Establishment and management of security rules in __AWS WAF__.
 - Implementation of security processes and best practices throughout the platform.
 - Management of infrastructure, documentation, and processes for __PCI DSS__. PCI DSS audit.
 - Creation of infrastructure for the deployment of third-party tools on the platform (AWS DMS for Looker, AWS EKS for Flowable).
