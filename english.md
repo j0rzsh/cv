@@ -15,7 +15,8 @@ Cloud Engineer. DevOps philosophy. Specialization in Amazon Web Services. Experi
 - Establishment of best practices in __IaC (Terraform)__.
 - Infrastructure management for microservices based on __AWS ECS__.
 - Establishment of __monitoring__ and __alerting__ processes and tools (__AWS CloudWatch__ + __Slack__).
-- Databases management (__MongoDB__).
+- Databases management (__MongoDB__). Migration to MongoDB Atlas.
+- Implementation of vector databases (__MongoDB Atlas Vector Search__).
 - Implementation and management of CDNs using __AWS CloudFront__.
 - Creation of __Backup__ strategies for all platform resources.
 - Implementation of security processes and best practices across the platform.
@@ -25,6 +26,7 @@ Cloud Engineer. DevOps philosophy. Specialization in Amazon Web Services. Experi
 - Installation and configuration of __HashiCorp Vault__.
 - Infrastructure management in __Google Cloud Platform__ based on __Firebase__, __BigQuery__, __Google Ad Manager__ and __Google Vision__.
 - Administration of __Google Workspace__.
+- CI/CD migration from Jenkins to Github Actions.
 
 ### (01/2021 – 09/2023) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
 

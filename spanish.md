@@ -11,11 +11,12 @@ Ingeniero Cloud. Filosofía DevOps. Especialización en Amazon Web Services. Exp
 ### (09/2023 – Actualidad) – NC43Tech – Senior Cloud DevOps Engineer/Cloud Architect
 
 - Diseño, implementación, gestión y operación de __arquitecturas en AWS__.
-- Gestión de __CI/CD__ para los departamentos de backend y frontend (Jenkins).
+- Gestión de __CI/CD__ para los departamentos de backend y frontend (Github Actions).
 - Establecimiento de buenas prácticas en __IaC (Terraform)__.
 - Gestión de infraestructuras para microservicios basada en __AWS ECS__.
 - Establecimiento de procesos y herramientas de __monitorización y alertado__ (AWS Cloudwatch + Slack).
-- Gestión de bases de datos (__MongoDB__).
+- Gestión de bases de datos (__MongoDB__). Migración a MongoDB Atlas.
+- Implementación de bases de datos vectoriales (__MongoDB Atlas Vector Search__).
 - Implementación y gestión de CDNs con __AWS Cloudfront__.
 - Creación de estrategias de __Backup__ para todos los recursos de la plataforma.
 - Implantación de procesos y buenas prácticas de __seguridad__ a través de toda la plataforma.
@@ -25,6 +26,7 @@ Ingeniero Cloud. Filosofía DevOps. Especialización en Amazon Web Services. Exp
 - Instalación y configuración de __Hashicorp Vault__.
 - Gestión de la infraestructura en __Google Cloud Platform__ basado en __Firebase__, __BigQuery__, __Google Ad Manager__ y __Google Vision__.
 - Administración de __Google Workspace__.
+- Migración de CI/CD a Github Actions.
 
 ###  (01/2021 – 09/2023) – Toqio – Senior Cloud DevOps Engineer/Cloud Architect
 
